@@ -1,9 +1,7 @@
 /* By Julien Foucher
 *  
-*  Reference to used to learn and start this work:     
-*  IR read codes     
-*  by Hanie kiani     
-*  https://electropeak.com/learn/        
+*  Reference to used to learn and start this work:
+*https://create.arduino.cc/projecthub/electropeak/use-an-ir-remote-transmitter-and-receiver-with-arduino-1e6bc8?ref=search&ref_id=REMOTE%20IR&offset=51 
 */     
 #include <IRremote.h>     
 int RECV_PIN =6;     
