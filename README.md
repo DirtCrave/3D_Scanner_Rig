@@ -1,2 +1,2 @@
-# Scanner_Rig
+# 3D_Scanner_Rig
 Code to control an Ir remote 3d scanning  rig
